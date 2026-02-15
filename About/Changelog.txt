@@ -1,4 +1,7 @@
 # Changelog for BeastlyVanillaTurrets
 
+1.6.2 - Fixed texture duplication
+
+
 1.6.1 - First publish
 

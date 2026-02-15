@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>6ff01b22-edd2-4b48-9f88-6b9822cc742b</ID>
   <ModName>Beastly Vanilla Turrets (Continued)</ModName>
-  <Version>1.6.1</Version>
+  <Version>1.6.2</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,8 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
 
