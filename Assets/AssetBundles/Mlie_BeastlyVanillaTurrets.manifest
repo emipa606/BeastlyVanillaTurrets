@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1710766231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 547bb40c76bc5614e1211e393afde454
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 547bb40c76bc5614e1211e393afde454
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3smg_11_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3emp_MenuIcon.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3CR_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3assault_11_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3mini_MenuIcon.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3smg_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3assault_MenuIcon.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3snipe_MenuIcon.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3rifle_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3assault_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3mini_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3snipe_11_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3smg_MenuIcon.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3CR_11_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3incen_MenuIcon.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3emp_11_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3CL_11_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3CR_MenuIcon.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3snipe_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3lmg_11_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3incen_11_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3emp_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3rifle_MenuIcon.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3shot_MenuIcon.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3mini_11_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3shot_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3CL_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3lmg_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3shot_11_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3CL_MenuIcon.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3lmg_MenuIcon.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3incen_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/Turret3rifle_11_Top.png
+- Assets/Data/Mlie.BeastlyVanillaTurrets/Textures/Things/Building/Turret/TurretBase.png
+Dependencies: []

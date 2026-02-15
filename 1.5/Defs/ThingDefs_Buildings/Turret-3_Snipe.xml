@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--   Start snipe Gun Turret   -->
+  <ThingDef ParentName="3TurretBase">
+    <defName>3snipe_TurretGun</defName>
+    <label>3 Sniper Rifles turret</label>
+    <description>Three sniper rifles mounted on a turret. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</description>
+    <uiIconPath>Things/Building/Turret/Turret3snipe_MenuIcon</uiIconPath>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Flammability>0.7</Flammability>
+      <WorkToBuild>4400</WorkToBuild>
+      <Mass>12.5</Mass>
+      <Beauty>-20</Beauty>
+      <ShootingAccuracyTurret>0.96</ShootingAccuracyTurret>
+    </statBases>
+    <killedLeavings>
+      <Gun_SniperRifle>2</Gun_SniperRifle>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </killedLeavings>
+    <costList>
+      <Steel>60</Steel>
+      <Gun_SniperRifle>3</Gun_SniperRifle>
+      <ComponentIndustrial>4</ComponentIndustrial>
+    </costList>
+    <building>
+      <turretGunDef>3snipe_Gun_Turret</turretGunDef>
+      <turretBurstCooldownTime>2.7</turretBurstCooldownTime>
+    </building>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_3snipe_Turret</defName>
+    <label>snipegun bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Big</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>25</damageAmountBase>
+      <stoppingPower>1.5</stoppingPower>
+      <speed>100</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeaponTurret">
+    <defName>3snipe_Gun_Turret</defName>
+    <label>3 Sniper Rifles turret</label>
+    <description>3 snipe guns mounted on a turret.</description>
+    <graphicData>
+      <texPath>Things/Building/Turret/Turret3snipe_11_Top</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Rifle</soundInteract>
+    <destroyOnDrop>true</destroyOnDrop>
+    <tradeability>None</tradeability>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <AccuracyTouch>0.50</AccuracyTouch>
+      <AccuracyShort>0.70</AccuracyShort>
+      <AccuracyMedium>0.86</AccuracyMedium>
+      <AccuracyLong>0.88</AccuracyLong>
+      <RangedWeapon_Cooldown>2.3</RangedWeapon_Cooldown>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Mass>6</Mass>
+      <Flammability>0</Flammability>
+    </statBases>
+    <weaponTags>
+      <li>3snipe_TurretGun</li>
+    </weaponTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_3snipe_Turret</defaultProjectile>
+        <warmupTime>3.5</warmupTime>
+        <range>44.9</range>
+        <burstShotCount>3</burstShotCount>
+        <ticksBetweenBurstShots>3</ticksBetweenBurstShots>
+        <soundCast>Shot_SniperRifle</soundCast>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+      </li>
+    </verbs>
+  </ThingDef>
+  <!--   End Sniper Gun Turret   -->
+</Defs>
