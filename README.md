@@ -54,4 +54,4 @@ Version 1.5 - Added 3 EMP Launcher turret
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/BeastlyVanillaTurrets?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3667123130) | tags: vanilla, weapons
+[![Image](https://img.shields.io/github/v/release/emipa606/BeastlyVanillaTurrets?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3667123130) | vanilla, weapons
